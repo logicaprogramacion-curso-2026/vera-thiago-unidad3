@@ -1,6 +1,6 @@
 # [Nombre del proyecto]
 
-**Alumno:** [Apellido, Nombre]
+**Alumno:** Vera, Thiago
 **Curso:** [Nombre del curso]
 **Fecha de inicio:** [dd/mm/aaaa]
 
